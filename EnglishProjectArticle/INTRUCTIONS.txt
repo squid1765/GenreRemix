@@ -1,5 +1,0 @@
-*INTRUCTIONS*
-
-Download folder and all contents
-Open file labeled "article" might display as article.html
- * The folder "articles_folder" contains all the CSS/styling documents to make the webpage display correctly in your browser.
